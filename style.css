@@ -164,3 +164,13 @@ select {
     transform: translateX(0);
   }
 }
+
+@media screen and (max-width: 600px) {
+  form {
+    flex-wrap: wrap;
+  }
+  .todo-list {
+    min-width: 90%;
+  }
+}
+
