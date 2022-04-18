@@ -172,5 +172,8 @@ select {
   .todo-list {
     min-width: 90%;
   }
+   .todo-container {
+    margin-top: 2rem;
+  }
 }
 
